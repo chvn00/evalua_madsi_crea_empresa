@@ -1,0 +1,8 @@
+{
+  "name": "evalua-madsi-creacion-empresa",
+  "version": "1.0.0",
+  "description": "Rúbrica evaluación Creación de Empresa MADSI",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
